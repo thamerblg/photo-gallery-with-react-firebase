@@ -1,0 +1,20 @@
+1- Firebase setup;
+- Enregistrer l'application
+- Ajouter le SDK Firebase (sous ./Firebase/config.js)
+- Creer le database sous Firebase (Realtime Database/Démarrer en mode test)
+- Activer le service de storage (et modifier les regles d'acces 'allow read, write;')
+
+2- Upload form
+- Ajouter le components 'uploadFile.js'
+
+3- Firebase storage hooks 
+(créer un hook personnalisé pour gérer le téléchargement de fichiers et le stockage Firebase)
+
+4- Make the progress-bar
+
+5- Firestore hooks and showing images 
+ImageGrid.js - 
+
+6- Create the modal (the popup that contains the image clicked)
+
+7- Add an animation to image (framer-motion)
